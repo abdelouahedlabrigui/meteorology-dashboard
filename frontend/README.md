@@ -57,7 +57,7 @@ To get started with MeteoAnalytics, follow these steps:
 ### Search ZIP Codes
 
 -    **Find ZIP codes by city, state, and county**
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/zip-code-lookups.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/zip-code-lookups.png)
 
 ### Hurricane Analysis
 
