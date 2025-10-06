@@ -62,27 +62,27 @@ To get started with MeteoAnalytics, follow these steps:
 ### Hurricane Analysis
 
 -   **Compare hurricane patterns between US East Coast and West Africa regions**
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p1.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Hurricane-Analysis-p1.png)
 
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p2.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Hurricane-Analysis-p2.png)
 
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p3.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Hurricane-Analysis-p3.png)
 
 ### Weather Clusters Analysis
 
 -   **Discover weather patterns through K-means clustering and temporal analysis**
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Clusters-Analysis-p1.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Weather-Clusters-Analysis-p1.png)
 
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Clusters-Analysis-p3.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Weather-Clusters-Analysis-p3.png)
 
 ### Weather Segments Analysis
 
 -   **Analyze weather data segmented by time periods with temperature distributions**
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p1.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Weather-Segments-Analysis-p1.png)
 
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p2.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Weather-Segments-Analysis-p2.png)
 
-![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p3.png)
+![alt text](https://github.com/abdelouahedlabrigui/meteorology-dashboard/raw/main/images/Weather-Segments-Analysis-p3.png)
 
 ## Contributing
 
