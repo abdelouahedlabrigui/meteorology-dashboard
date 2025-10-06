@@ -1,0 +1,98 @@
+================================================================================
+METEOROLOGICAL ANALYSIS REPORT
+================================================================================
+
+Location: Latitude 38.910366, Longitude -119.91792
+Elevation: 1902.0 meters
+Analysis Period: 2025-06-01T00:00 to 2025-06-30T23:00
+Clustering Method: KMeans
+Number of Clusters: 3
+
+--------------------------------------------------------------------------------
+OVERALL WEATHER PATTERN ANALYSIS
+--------------------------------------------------------------------------------
+a consistent trend of large-scale rainfall and snowstorms. The precipitation will be lighter and drier than average.
+,
+
+
+The main weather pattern is the cluster 0 cluster. Cluster 0 is a very strong cluster with a strong wind-driven downdraft. The peak temperatures will be around 18°C.
+
+
+Clusters 1 and 2 are not as strong as cluster 1 and cluster 2. The cluster 1 is a moderate cluster with relatively weak winds. The clusters 2 are a moderate and strong cluster. The temperatures will remain higher than average, but the humidity will be less than average and the rainfall will be light.
+
+ of the cluster 1 cluster, the humidity is a little higher than the average of cluster 2, which is also a moderate weather pattern.
+
+,
+
+The cluster 2 cluster is a strong cluster and the temperature will be above average. The humidity will reach over 99% of the average.
+
+--------------------------------------------------------------------------------
+CLUSTER 0 DETAILED ANALYSIS
+--------------------------------------------------------------------------------
+Cluster 0 Analysis:
+- Size: 427 hours
+- Temperature: 13.1°C (range: 2.6-23.2°C)
+- Humidity: 46.4% (range: 16.0-76.0%)
+- Wind Speed: 4.9 km/h (range: 0.3-16.2 km/h)
+- Precipitation: 0.00 mm (max: 0.1 mm)
+- Pressure: 1015.3 hPa
+- Dominant Weather: clear
+
+Expert Analysis:
+the transition between winter and summer.
+ and Winter-summer
+
+The winter pattern includes a cool phase and a warm phase. In winter, the air mass transitions to the colder side, which is warmer than the warm side. The air mass then returns to the warm phase in the middle of summer, and the air masses of the cold side and warm side remain.
+ in Winter-winter
+
+For a detailed description of the weather pattern, please see the official meteorological forecast website.
+
+
+
+Source: http://www.weather.gov/
+
+--------------------------------------------------------------------------------
+CLUSTER 1 DETAILED ANALYSIS
+--------------------------------------------------------------------------------
+Cluster 1 Analysis:
+- Size: 292 hours
+- Temperature: 22.3°C (range: 9.8-29.9°C)
+- Humidity: 21.4% (range: 8.0-42.0%)
+- Wind Speed: 10.9 km/h (range: 0.5-25.4 km/h)
+- Precipitation: 0.01 mm (max: 0.6 mm)
+- Pressure: 1012.9 hPa
+- Dominant Weather: code
+
+Expert Analysis:
+a tropical cyclone with an intensity of 6.5 on the Saffir-Simpson Hurricane Wind Scale. It is a strong tropical cyclones which is characterized by a strong front with low-pressure systems with maximum intensity of 8.5. This pattern is the strongest in this area since the onset of the El Niño Southern Oscillation in the late 1990s.
+
+
+
+Clusters 2 & 3 Analysis:
+
+
+- Number of Forecasts: 9
+
+- Period: 2025 -06-07T00.00 to 2030 -06/30T22:00 - Predicted Max Winds: 8-10 knots
+
+Forecast strength: 2.9
+
+Maximum Wind Speed (kt): 8.6 km/hr (range 5.6-19.2 km/hour)
+
+Minimum Wind Speed (<1 min): 0.4 kts (range -0.1-3.0 kts)
+
+--------------------------------------------------------------------------------
+CLUSTER 2 DETAILED ANALYSIS
+--------------------------------------------------------------------------------
+Cluster 2 Analysis:
+- Size: 1 hours
+- Temperature: 22.3°C (range: 22.3-22.3°C)
+- Humidity: 48.0% (range: 48.0-48.0%)
+- Wind Speed: 3.8 km/h (range: 3.8-3.8 km/h)
+- Precipitation: 2.70 mm (max: 2.7 mm)
+- Pressure: 1016.2 hPa
+- Dominant Weather: code
+
+Expert Analysis:
+the dominant forecast for the next week.
+
