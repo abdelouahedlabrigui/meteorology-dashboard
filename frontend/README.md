@@ -52,6 +52,38 @@ To get started with MeteoAnalytics, follow these steps:
     ```
 4.  Open your browser and navigate to `http://localhost:3000`.
 
+## Screenshots
+
+### Search ZIP Codes
+
+-    **Find ZIP codes by city, state, and county**
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/zip-code-lookups.png)
+
+### Hurricane Analysis
+
+-   **Compare hurricane patterns between US East Coast and West Africa regions**
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p1.png)
+
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p2.png)
+
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Hurricane-Analysis-p3.png)
+
+### Weather Clusters Analysis
+
+-   **Discover weather patterns through K-means clustering and temporal analysis**
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Clusters-Analysis-p1.png)
+
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Clusters-Analysis-p3.png)
+
+### Weather Segments Analysis
+
+-   **Analyze weather data segmented by time periods with temperature distributions**
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p1.png)
+
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p2.png)
+
+![alt text](https://raw.githubusercontent.com/abdelouahedlabrigui/meteorology-dashboard/images/Weather-Segments-Analysis-p3.png)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or find issues, please open an issue or submit a pull request.
